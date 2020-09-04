@@ -1716,3 +1716,22 @@ a.gitment-editor-footer-tip:hover {
     transform: rotate(360deg);
   }
 }
+
+
+
+/* リンクカード用CSSを追加 */
+.link-preview .link-area {
+  display: flex;
+  margin: 1em 0;
+  padding: .5em;
+  border: 1px solid #c2c2c2;
+}
+
+.og-image{
+padding: 0 .5em 0 0;
+}
+
+.link-preview img {
+  max-width: 100px;
+float: left;
+}
